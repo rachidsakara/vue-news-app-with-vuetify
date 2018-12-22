@@ -13,12 +13,28 @@
 ![News Application Rachid Sakara](https://i.ibb.co/yWSP5Rz/Beautiful-News-Application-with-Vue-Js-and-Vuetify.png?raw=true)
 
 
-## Acquiring Free API Key
+## Setup Your Free API Key
 
-Next step is getting a free API key at [News API](https://newsapi.org/) witch will help us make some call requests to the server and retrieve the news articles. 
+> To fetch the news data from the [News API](https://newsapi.org/) backend server, we'll need to generate a new Api Key. To do so, head over to the News API official site and click on the “Get API key” button to register for a new account. 
 
-Once the api key is in your hands, go to `/src/app/news-api.service.ts` and paste it to where it said put “PUT_YOUR_API_KEY_HERE”.
+> Once the registration process is done, you’ll be redirect to dashboard where the API key is already generated for you. 
 
+> Now, to implement you key, open the `/src/App.vue` file. Then, inside the `<script>` tag put you key to where it said: 'Put_Your_API_Key_Here' as shown below:
+
+```
+<script>
+...
+data() {
+    return {
+      drawer: true, // true to show/hide the side navigation drawer 
+      api_key: 'Put_Your_API_Key_Here',
+      articles: [],
+      errors: [] 
+    }
+  },
+...
+</script>
+```
 
 ## Build Setup
 
