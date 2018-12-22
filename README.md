@@ -8,7 +8,7 @@
 
 ![News Application Rachid Sakara](https://i.ibb.co/zNggXk3/Default.png?raw=true)
 
-![News Application Rachid Sakara](https://i.ibb.co/NT2dQcT/News-Application.png?raw=true)
+![News Application Rachid Sakara](https://i.ibb.co/rd2RTDd/News-Application.png?raw=true)
 
 ![News Application Rachid Sakara](https://i.ibb.co/yWSP5Rz/Beautiful-News-Application-with-Vue-Js-and-Vuetify.png?raw=true)
 
