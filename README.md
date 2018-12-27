@@ -19,7 +19,7 @@
 
 > Once the registration process is done, you’ll be redirect to dashboard where the API key is already generated for you. 
 
-> Now, to implement you key, open the `/src/App.vue` file. Then, inside the `<script>` tag put you key to where it said: 'Put_Your_API_Key_Here' as shown below:
+> Now, to implement your key, open the `/src/App.vue` file. Then, inside the `<script>` tag put you key to where it said: 'Put_Your_API_Key_Here' as shown below:
 
 ```
 <script>
