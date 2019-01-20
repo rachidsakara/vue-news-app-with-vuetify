@@ -3,7 +3,7 @@
 
   <v-app light>
 
-  <!--The SideMenu Component -->  
+  <!--The SideMenu Component go here-->  
   <SideMenu :drawer="drawer"  :api_key="api_key" @selectsource="setResource" ></SideMenu>
 
   <v-toolbar fixed app light clipped-left color="primary" class="elevation-2">
@@ -38,8 +38,7 @@
 
 <script>
 
-
-import axios from 'axios' //importing the axios library to connects the app with the API
+import axios from 'axios' //importing the axios a HTTP library to connects the app with the API
 import SideMenu from './components/SideMenu.vue' // import the SideMenu component
 import MainContent from './components/MainContent.vue' // import the MainContent component
 
