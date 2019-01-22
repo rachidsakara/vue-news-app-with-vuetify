@@ -1,7 +1,5 @@
 <template>
 
-
-
   <v-navigation-drawer v-model="drawer" fixed app clipped class="drawer-style"   id="style-1">
 
     <v-list dense class="pt-3  white--text" >
@@ -26,10 +24,6 @@
     </v-list>
     
   </v-navigation-drawer>
-
-
- 
-
 
 </template>
 
