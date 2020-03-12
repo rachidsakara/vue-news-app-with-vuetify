@@ -1,6 +1,8 @@
 # vue-news-app
 
-> A  beautiful animated news application that is production ready, which was built using one of the most popular JavaScript Framework for building interactive user interfaces Vue.js along with Vuetify, a Vue powered UI library to speed up the Application UI construction.
+> A [beautiful animated news application that is production ready](https://vue-news-app.firebaseapp.com/).  , which was built using one of the most popular JavaScript Framework for building interactive user interfaces Vue.js along with Vuetify, a Vue powered UI library to speed up the Application UI construction.
+
+> You can build this app step-by-step, following the ultimate tutorial at [ButterCMS](https://buttercms.com/blog/build-a-beautiful-animated-news-app-with-vuejs-and-vuetify).  
 
 ## Project Overview
 
