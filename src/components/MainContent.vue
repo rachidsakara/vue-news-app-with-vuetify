@@ -16,7 +16,6 @@
                       </v-flex>
                     </v-layout>
                   </v-container>
-                </v-card-media>
                 <v-card-text>
                   {{ article.description }}
                 </v-card-text>
